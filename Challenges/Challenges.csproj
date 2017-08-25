@@ -48,6 +48,10 @@
       <Project>{bd65cbb8-676d-43cd-84a0-e81cf32d4fd9}</Project>
       <Name>ConstantsLibrary</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Toolbox\Toolbox.csproj">
+      <Project>{9384a3eb-d803-4eac-894f-151c26caf0e5}</Project>
+      <Name>Toolbox</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenges", "Challenges\Challenges.csproj", "{1726A78F-BF2C-4BE6-8EEC-DAD957107F3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{6CBA44F4-C440-4AA3-9016-8C83972FF00E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunChallenges", "ConsoleApplication1\RunChallenges.csproj", "{6CBA44F4-C440-4AA3-9016-8C83972FF00E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstantsLibrary", "ConstantsLibrary\ConstantsLibrary.csproj", "{BD65CBB8-676D-43CD-84A0-E81CF32D4FD9}"
 EndProject
